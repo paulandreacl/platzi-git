@@ -4,7 +4,7 @@ body {
   font-family: "Arial";
   margin: 10;
   padding: 10;
-  background: darkorange;
+  background: fuchsia;
 }
 
 #container {
@@ -16,7 +16,7 @@ body {
 }
 
 #cabecera {
-  background: blueviolet;
+  background: burlywood;
   color: black;
   font-weight: bold;
   font-family:  Geneva;
